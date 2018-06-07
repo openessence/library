@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OpenEssence</title>
+    <title>Home on OpenEssence</title>
     <link>https://openessence.github.io/</link>
-    <description>Recent content on OpenEssence</description>
+    <description>Recent content in Home on OpenEssence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Jun 2018 12:39:01 +0100</lastBuildDate>
