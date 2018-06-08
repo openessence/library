@@ -12,7 +12,6 @@
     
     
     <item>
-<<<<<<< HEAD
       <title>Business Strategy</title>
       <link>https://openessence.github.io/practices/business-strategy/</link>
       <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
@@ -104,14 +103,11 @@ Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  
     
     <item>
       <title>RTI</title>
-=======
       <title>Ready To Innovate </title>
->>>>>>> b0f2ab21cfb8456843939299204efcae94574bed
       <link>https://openessence.github.io/practices/rti/</link>
       <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
       
       <guid>https://openessence.github.io/practices/rti/</guid>
-<<<<<<< HEAD
       <description>What is RTI? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
 Why use it? It&amp;rsquo;s a simple way of assessing the current state of a whole organisation (or a part of it) and its readiness and capabilities for digital transformation and adopting new technology.
 Related Practices Who do you need?</description>
