@@ -6,9 +6,100 @@
     <description>Recent content in Tags on OpenEssence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jun 2018 12:39:01 +0100</lastBuildDate>
     
 	<atom:link href="https://openessence.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Agile</title>
+      <link>https://openessence.github.io/tags/agile/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application</title>
+      <link>https://openessence.github.io/tags/application/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://openessence.github.io/tags/architecture/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>https://openessence.github.io/tags/business/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://openessence.github.io/tags/design/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>https://openessence.github.io/tags/devops/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping</title>
+      <link>https://openessence.github.io/tags/mapping/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migration</title>
+      <link>https://openessence.github.io/tags/migration/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategy</title>
+      <link>https://openessence.github.io/tags/strategy/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>https://openessence.github.io/tags/workshop/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/workshop/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
