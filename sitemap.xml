@@ -4,7 +4,12 @@
   
   <url>
     <loc>https://openessence.github.io/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
+    <lastmod>2018-06-07T16:39:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/practices/schneider-model/</loc>
+    <lastmod>2018-06-07T16:39:01+01:00</lastmod>
   </url>
   
   <url>
@@ -153,6 +158,12 @@
   </url>
   
   <url>
+    <loc>https://openessence.github.io/tags/culture/</loc>
+    <lastmod>2018-06-07T16:39:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://openessence.github.io/tags/design/</loc>
     <lastmod>2018-06-07T12:39:01+01:00</lastmod>
     <priority>0</priority>
@@ -177,6 +188,12 @@
   </url>
   
   <url>
+    <loc>https://openessence.github.io/tags/modelling/</loc>
+    <lastmod>2018-06-07T16:39:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://openessence.github.io/tags/opportunity/</loc>
     <lastmod>2018-05-12T16:31:41+00:00</lastmod>
     <priority>0</priority>
@@ -184,13 +201,13 @@
   
   <url>
     <loc>https://openessence.github.io/categories/portfolio/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
+    <lastmod>2018-06-07T16:39:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openessence.github.io/practices/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
+    <lastmod>2018-06-07T16:39:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -262,7 +279,7 @@
   
   <url>
     <loc>https://openessence.github.io/tags/workshop/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
+    <lastmod>2018-06-07T16:39:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   

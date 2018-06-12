@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio on OpenEssence</title>
-    <link>https://openessence.github.io/categories/portfolio/</link>
-    <description>Recent content in Portfolio on OpenEssence</description>
+    <title>Culture on OpenEssence</title>
+    <link>https://openessence.github.io/tags/culture/</link>
+    <description>Recent content in Culture on OpenEssence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Jun 2018 16:39:01 +0100</lastBuildDate>
     
-	<atom:link href="https://openessence.github.io/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://openessence.github.io/tags/culture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>https://openessence.github.io/practices/schneider-model/</guid>
       <description>What is the Schneider Model? The Schneider cultural model isn&amp;rsquo;t a new approach (it has its origins in the mid 90&amp;rsquo;s) but it&amp;rsquo;s relevant today. When applying technical and process changes as part of a transformation, this activity provides the means of assessing the current culture and how effective these changes may be.
 The Schneider Model identifies the primary, underlying culture which shapes the organisation. There are 4 main types: - Control - Cultivation - Collaboration - Competence</description>
-    </item>
-    
-    <item>
-      <title>Pathfinder</title>
-      <link>https://openessence.github.io/practices/pathfinder/</link>
-      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
-      
-      <guid>https://openessence.github.io/practices/pathfinder/</guid>
-      <description>What is Pathfinder? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
-Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  1 hour  Difficulty  Facilitator: Easy Participants: Easy  Facilitation Materials Needed  Whiteboard which will hold sticky notes. Whiteboard markers Stickies (preferably a wide variety)  Process Phase Any time</description>
     </item>
     
   </channel>
