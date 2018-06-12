@@ -98,11 +98,6 @@
   </url>
   
   <url>
-    <loc>https://openessence.github.io/practices/schneider-model/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://openessence.github.io/practices/stakeholder-mapping/</loc>
     <lastmod>2018-06-07T12:39:01+01:00</lastmod>
   </url>
@@ -207,6 +202,12 @@
   
   <url>
     <loc>https://openessence.github.io/tags/semat/</loc>
+    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/categories/semat/</loc>
     <lastmod>2018-06-12T15:18:16+02:00</lastmod>
     <priority>0</priority>
   </url>
