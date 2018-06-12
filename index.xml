@@ -6,10 +6,82 @@
     <description>Recent content in Home on OpenEssence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 12:39:01 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jun 2018 15:18:16 +0200</lastBuildDate>
     
 	<atom:link href="https://openessence.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SEMAT - Opportunity</title>
+      <link>https://openessence.github.io/practices/semat-opportunity/</link>
+      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-opportunity/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Requirements</title>
+      <link>https://openessence.github.io/practices/semat-requirements/</link>
+      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-requirements/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Software System</title>
+      <link>https://openessence.github.io/practices/semat-software-system/</link>
+      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-software-system/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Stakeholders</title>
+      <link>https://openessence.github.io/practices/semat-stakeholders/</link>
+      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-stakeholders/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Team</title>
+      <link>https://openessence.github.io/practices/semat-team/</link>
+      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-team/</guid>
+      <description>                  </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Way of Working</title>
+      <link>https://openessence.github.io/practices/semat-way-of-working/</link>
+      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-way-of-working/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Work</title>
+      <link>https://openessence.github.io/practices/semat-work/</link>
+      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-work/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT References</title>
+      <link>https://openessence.github.io/practices/semat-references/</link>
+      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-references/</guid>
+      <description> SEMAT References </description>
+    </item>
     
     <item>
       <title>Business Strategy</title>
@@ -27,8 +99,9 @@ Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  
       <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
       
       <guid>https://openessence.github.io/practices/design-thinking/</guid>
-      <description>What is Design Thinking? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
-Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  1 hour  Difficulty  Facilitator: Easy Participants: Easy  Facilitation Materials Needed  Whiteboard which will hold sticky notes.</description>
+      <description>What is Design Thinking? Design Thinking was originally developed as a process for creative designers but has wider business and social applications.
+Why use it? It is a positive, creative approach for the initial parts of solution development. It is a good way of getting fresh, new ideas into an existing organisation. Thinking outside of the box is one way of describing it.
+Related Practices It can be used as part of a Discovery Session or as part of a wider development project.</description>
     </item>
     
     <item>
