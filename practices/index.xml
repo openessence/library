@@ -6,81 +6,19 @@
     <description>Recent content in Practices on OpenEssence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jun 2018 15:18:16 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jun 2018 16:39:01 +0100</lastBuildDate>
     
 	<atom:link href="https://openessence.github.io/practices/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>SEMAT - Opportunity</title>
-      <link>https://openessence.github.io/practices/semat-opportunity/</link>
-      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
+      <title>Schneider Model</title>
+      <link>https://openessence.github.io/practices/schneider-model/</link>
+      <pubDate>Thu, 07 Jun 2018 16:39:01 +0100</pubDate>
       
-      <guid>https://openessence.github.io/practices/semat-opportunity/</guid>
-      <description>                      </description>
-    </item>
-    
-    <item>
-      <title>SEMAT - Requirements</title>
-      <link>https://openessence.github.io/practices/semat-requirements/</link>
-      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
-      
-      <guid>https://openessence.github.io/practices/semat-requirements/</guid>
-      <description>                      </description>
-    </item>
-    
-    <item>
-      <title>SEMAT - Software System</title>
-      <link>https://openessence.github.io/practices/semat-software-system/</link>
-      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
-      
-      <guid>https://openessence.github.io/practices/semat-software-system/</guid>
-      <description>                      </description>
-    </item>
-    
-    <item>
-      <title>SEMAT - Stakeholders</title>
-      <link>https://openessence.github.io/practices/semat-stakeholders/</link>
-      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
-      
-      <guid>https://openessence.github.io/practices/semat-stakeholders/</guid>
-      <description>                      </description>
-    </item>
-    
-    <item>
-      <title>SEMAT - Team</title>
-      <link>https://openessence.github.io/practices/semat-team/</link>
-      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
-      
-      <guid>https://openessence.github.io/practices/semat-team/</guid>
-      <description>                  </description>
-    </item>
-    
-    <item>
-      <title>SEMAT - Way of Working</title>
-      <link>https://openessence.github.io/practices/semat-way-of-working/</link>
-      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
-      
-      <guid>https://openessence.github.io/practices/semat-way-of-working/</guid>
-      <description>                      </description>
-    </item>
-    
-    <item>
-      <title>SEMAT - Work</title>
-      <link>https://openessence.github.io/practices/semat-work/</link>
-      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
-      
-      <guid>https://openessence.github.io/practices/semat-work/</guid>
-      <description>                      </description>
-    </item>
-    
-    <item>
-      <title>SEMAT References</title>
-      <link>https://openessence.github.io/practices/semat-references/</link>
-      <pubDate>Tue, 12 Jun 2018 15:18:16 +0200</pubDate>
-      
-      <guid>https://openessence.github.io/practices/semat-references/</guid>
-      <description> SEMAT References </description>
+      <guid>https://openessence.github.io/practices/schneider-model/</guid>
+      <description>What is the Schneider Model? The Schneider cultural model isn&amp;rsquo;t a new approach (it has its origins in the mid 90&amp;rsquo;s) but it&amp;rsquo;s relevant today. When applying technical and process changes as part of a transformation, this activity provides the means of assessing the current culture and how effective these changes may be.
+The Schneider Model identifies the primary, underlying culture which shapes the organisation. There are 4 main types: - Control - Cultivation - Collaboration - Competence</description>
     </item>
     
     <item>
@@ -170,8 +108,9 @@ Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  
       <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
       
       <guid>https://openessence.github.io/practices/pathfinder/</guid>
-      <description>What is Pathfinder? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
-Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  1 hour  Difficulty  Facilitator: Easy Participants: Easy  Facilitation Materials Needed  Whiteboard which will hold sticky notes. Whiteboard markers Stickies (preferably a wide variety)  Process Phase Any time</description>
+      <description>What is Pathfinder? Pathfinder is a web based application assessment tool which is used by customers to determine which applications could be containerised, the effort involved and any impediments to the containerisation process.
+Pathfinder enables customers to view the order in which applications should be migrated as well as help determine the type of work involved e.g migrate, modernise etc, and a course estimate of the effort required.
+Why use it?</description>
     </item>
     
     <item>
@@ -223,6 +162,78 @@ Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  
       <guid>https://openessence.github.io/practices/value-stream-mapping/</guid>
       <description>What is Value Stream Mapping? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
 Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  1 hour  Difficulty  Facilitator: Easy Participants: Easy  Facilitation Materials Needed  Whiteboard which will hold sticky notes.</description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Opportunity</title>
+      <link>https://openessence.github.io/practices/semat-opportunity/</link>
+      <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-opportunity/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Requirements</title>
+      <link>https://openessence.github.io/practices/semat-requirements/</link>
+      <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-requirements/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Software System</title>
+      <link>https://openessence.github.io/practices/semat-software-system/</link>
+      <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-software-system/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Stakeholders</title>
+      <link>https://openessence.github.io/practices/semat-stakeholders/</link>
+      <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-stakeholders/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Team</title>
+      <link>https://openessence.github.io/practices/semat-team/</link>
+      <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-team/</guid>
+      <description>                  </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Way of Working</title>
+      <link>https://openessence.github.io/practices/semat-way-of-working/</link>
+      <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-way-of-working/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT - Work</title>
+      <link>https://openessence.github.io/practices/semat-work/</link>
+      <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-work/</guid>
+      <description>                      </description>
+    </item>
+    
+    <item>
+      <title>SEMAT References</title>
+      <link>https://openessence.github.io/practices/semat-references/</link>
+      <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/semat-references/</guid>
+      <description> SEMAT References </description>
     </item>
     
   </channel>

@@ -4,47 +4,12 @@
   
   <url>
     <loc>https://openessence.github.io/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
+    <lastmod>2018-06-07T16:39:01+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://openessence.github.io/practices/semat-opportunity/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/semat-requirements/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/semat-software-system/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/semat-stakeholders/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/semat-team/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/semat-way-of-working/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/semat-work/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/semat-references/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
+    <loc>https://openessence.github.io/practices/schneider-model/</loc>
+    <lastmod>2018-06-07T16:39:01+01:00</lastmod>
   </url>
   
   <url>
@@ -118,6 +83,46 @@
   </url>
   
   <url>
+    <loc>https://openessence.github.io/practices/semat-opportunity/</loc>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/practices/semat-requirements/</loc>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/practices/semat-software-system/</loc>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/practices/semat-stakeholders/</loc>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/practices/semat-team/</loc>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/practices/semat-way-of-working/</loc>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/practices/semat-work/</loc>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/practices/semat-references/</loc>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://openessence.github.io/tags/agile/</loc>
     <lastmod>2018-06-07T12:39:01+01:00</lastmod>
     <priority>0</priority>
@@ -153,6 +158,12 @@
   </url>
   
   <url>
+    <loc>https://openessence.github.io/tags/culture/</loc>
+    <lastmod>2018-06-07T16:39:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://openessence.github.io/tags/design/</loc>
     <lastmod>2018-06-07T12:39:01+01:00</lastmod>
     <priority>0</priority>
@@ -177,50 +188,56 @@
   </url>
   
   <url>
+    <loc>https://openessence.github.io/tags/modelling/</loc>
+    <lastmod>2018-06-07T16:39:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://openessence.github.io/tags/opportunity/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openessence.github.io/categories/portfolio/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
+    <lastmod>2018-06-07T16:39:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openessence.github.io/practices/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
+    <lastmod>2018-06-07T16:39:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openessence.github.io/tags/requirements/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/tags/semat/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openessence.github.io/categories/semat/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/tags/semat/</loc>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openessence.github.io/tags/software/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openessence.github.io/tags/stakeholders/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -238,31 +255,31 @@
   
   <url>
     <loc>https://openessence.github.io/tags/team/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openessence.github.io/tags/ways/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openessence.github.io/tags/work/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openessence.github.io/tags/working/</loc>
-    <lastmod>2018-06-12T15:18:16+02:00</lastmod>
+    <lastmod>2018-05-12T16:31:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openessence.github.io/tags/workshop/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
+    <lastmod>2018-06-07T16:39:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
