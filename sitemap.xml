@@ -23,72 +23,12 @@
   </url>
   
   <url>
-    <loc>https://openessence.github.io/practices/business-strategy/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://openessence.github.io/practices/design-thinking/</loc>
     <lastmod>2018-06-07T12:39:01+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://openessence.github.io/practices/devops/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/domain-drive-design/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/impact-mapping/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/journey-mapping/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/nine-block-model/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/operational-awareness/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://openessence.github.io/practices/pathfinder/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/rti/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/stakeholder-mapping/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/template/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/uml/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/value-stream-mapping/</loc>
     <lastmod>2018-06-07T12:39:01+01:00</lastmod>
   </url>
   
@@ -133,12 +73,6 @@
   </url>
   
   <url>
-    <loc>https://openessence.github.io/tags/agile/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://openessence.github.io/tags/aims/</loc>
     <lastmod>2018-06-12T15:31:41+01:00</lastmod>
     <priority>0</priority>
@@ -169,12 +103,6 @@
   </url>
   
   <url>
-    <loc>https://openessence.github.io/tags/business/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://openessence.github.io/categories/</loc>
     <lastmod>2018-06-13T11:25:31+01:00</lastmod>
     <priority>0</priority>
@@ -194,12 +122,6 @@
   
   <url>
     <loc>https://openessence.github.io/tags/design/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/tags/devops/</loc>
     <lastmod>2018-06-07T12:39:01+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -283,14 +205,8 @@
   </url>
   
   <url>
-    <loc>https://openessence.github.io/tags/strategy/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://openessence.github.io/tags/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
+    <lastmod>2018-06-12T15:31:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
