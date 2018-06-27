@@ -13,8 +13,23 @@
   </url>
   
   <url>
+    <loc>https://openessence.github.io/practices/agile-delivery/</loc>
+    <lastmod>2018-06-27T11:18:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/practices/business-strategy-engagement/</loc>
+    <lastmod>2018-06-27T10:39:01+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://openessence.github.io/practices/context-switching-workshop/</loc>
     <lastmod>2018-06-27T10:39:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/practices/activity-template/</loc>
+    <lastmod>2018-06-27T10:23:32+01:00</lastmod>
   </url>
   
   <url>
@@ -114,6 +129,12 @@
   <url>
     <loc>https://openessence.github.io/blog/</loc>
     <lastmod>2018-06-13T11:25:31+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/tags/business/</loc>
+    <lastmod>2018-06-27T10:39:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -222,6 +243,12 @@
   <url>
     <loc>https://openessence.github.io/tags/stakeholders/</loc>
     <lastmod>2018-05-12T16:31:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/tags/strategy/</loc>
+    <lastmod>2018-06-27T10:39:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   

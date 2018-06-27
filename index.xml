@@ -22,6 +22,30 @@
     </item>
     
     <item>
+      <title>Agile Delivery</title>
+      <link>https://openessence.github.io/practices/agile-delivery/</link>
+      <pubDate>Wed, 27 Jun 2018 11:18:08 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/agile-delivery/</guid>
+      <description>Author Malcolm Herbert June 2018
+License Creative Commons Attribution-ShareAlike 4.0 https://creativecommons.org/licenses/by-sa/4.0/ What is Agile Delivery ? Agile delivery is an approach for delivering consulting or presales projects, based on the Agile methodology. It involves a range of Agile activities and approaches and the style of delivery varies significantly.
+http://agilemanifesto.org/
+Why use it? Because it&amp;rsquo;s Agile ? If you are a practioner and live Agile then this is the approach for you.</description>
+    </item>
+    
+    <item>
+      <title>Business Stategy Workshop</title>
+      <link>https://openessence.github.io/practices/business-strategy-engagement/</link>
+      <pubDate>Wed, 27 Jun 2018 10:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/business-strategy-engagement/</guid>
+      <description>What is a Business Strategy Engagement? The Red Hat Strategy Engagement takes business leaders out of their day to day environment to explore their future business strategy and position Red Hat as technology partner of choice.
+The outputs from the workshops are:
+Day 1
+ Understanding of what a Journey Map is Agreed topics to take into the Journey Mapping Workshop Output document containing:  Customer Strategy Business Priority Output RTI Assessment document   Day 2</description>
+    </item>
+    
+    <item>
       <title>Content Switching</title>
       <link>https://openessence.github.io/practices/context-switching-workshop/</link>
       <pubDate>Wed, 27 Jun 2018 10:39:01 +0100</pubDate>
@@ -29,6 +53,19 @@
       <guid>https://openessence.github.io/practices/context-switching-workshop/</guid>
       <description>What is Content Switching? Context Switching can be described as multi-tasking which is often seen as a good thing. Unfortunately, we are not able to generate the same amount of output/value when we multi-task.
 Much recent neuroscience research tells us that the brain doesn’t really do tasks simultaneously, as we thought (hoped) it might. In fact, we just switch tasks quickly. Each time we move from hearing music to writing a text or talking to someone, there is a stop/start process that goes on in the brain.</description>
+    </item>
+    
+    <item>
+      <title>Activity Template</title>
+      <link>https://openessence.github.io/practices/activity-template/</link>
+      <pubDate>Wed, 27 Jun 2018 10:23:32 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/activity-template/</guid>
+      <description>ACTIVITY Name $title$
+Type Activity
+Author $author$ $date$
+License Creative Commons Attribution-ShareAlike 4.0 https://creativecommons.org/licenses/by-sa/4.0/ Activity Spaces Influenced Activities can only influence one activity space
+   Activity Area Activity Space Influenced     Customer Explore Possibilities    Customer Understand Stakeholders Needs    Customer Ensure Stakeholder Satisfaction    Customer Use The System    Solution Understand the Requirements    Solution Shape the System    Solution Implement the System    Solution Test the System    Solution Deploy the System    Solution Operate the System    Endeavour Prepare to do the Work    Endeavour Coordinate Activity    Endeavour Support the Team    Endeavour Track Progress    Endeavour Stop the Work     Input Alpha States    Alpha State TotalStates     Opportunity 1 6   Stakeholders 1 6   Requirements 1 6   Software System 0 6   Work 0 6   Way of Working 0 6   Team 1 5    Output Alpha States    Alpha State TotalStates     Opportunity 1 6   Stakeholders 1 6   Requirements 1 6   Software System 0 6   Work 0 6   Way of Working 0 6   Team 1 5    Summary $summary$</description>
     </item>
     
     <item>
