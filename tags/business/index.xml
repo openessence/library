@@ -6,19 +6,21 @@
     <description>Recent content in Business on OpenEssence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 12:39:01 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jun 2018 10:39:01 +0100</lastBuildDate>
     
 	<atom:link href="https://openessence.github.io/tags/business/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Business Strategy</title>
-      <link>https://openessence.github.io/practices/business-strategy/</link>
-      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      <title>Business Strategy Workshop</title>
+      <link>https://openessence.github.io/practices/business-strategy-engagement/</link>
+      <pubDate>Wed, 27 Jun 2018 10:39:01 +0100</pubDate>
       
-      <guid>https://openessence.github.io/practices/business-strategy/</guid>
-      <description>What is Business Strategy? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
-Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  1 hour  Difficulty  Facilitator: Easy Participants: Easy  Facilitation Materials Needed  Whiteboard which will hold sticky notes.</description>
+      <guid>https://openessence.github.io/practices/business-strategy-engagement/</guid>
+      <description>What is a Business Strategy Engagement? The Red Hat Strategy Engagement takes business leaders out of their day to day environment to explore their future business strategy and position Red Hat as technology partner of choice.
+The outputs from the workshops are:
+Day 1
+ Understanding of what a Journey Map is Agreed topics to take into the Journey Mapping Workshop Output document containing:  Customer Strategy Business Priority Output RTI Assessment document   Day 2</description>
     </item>
     
   </channel>
