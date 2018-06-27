@@ -79,7 +79,7 @@ hr.small {
 
 div.panel-body a.list-group-item {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 200;
+  font-weight: 800;
   border-radius: 0;
   border: none;
 }
@@ -408,7 +408,7 @@ footer .theme-by {
   width: 192px;
 }
 .post-preview .post-read-more {
-  font-weight: 200;
+  font-weight: 800;
   float: right;
 }
 
@@ -627,7 +627,7 @@ footer .theme-by {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 200;
+  font-weight: 800;
   letter-spacing: 1px;
   padding: 10px 5px;
   background: #FFF;

@@ -6,10 +6,30 @@
     <description>Recent content in Practices on OpenEssence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 16:39:01 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jun 2018 11:39:01 +0100</lastBuildDate>
     
 	<atom:link href="https://openessence.github.io/practices/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Infrastructure Architecture Workshop</title>
+      <link>https://openessence.github.io/practices/infrastructure-architecture-workshop/</link>
+      <pubDate>Wed, 27 Jun 2018 11:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/infrastructure-architecture-workshop/</guid>
+      <description>What is an Infrastructure Architecture Workshop? This is an activity which is designed to elicit requirements and propose architecture for an infrastructure-type engagement. The outputs from the workshop are:
+ A list of requirements A High Level Design document A Low Level Design document A task backlog  The outputs can then be fed to an implementation team who should be able to implement a solution that meets the requirements.</description>
+    </item>
+    
+    <item>
+      <title>Content Switching</title>
+      <link>https://openessence.github.io/practices/context-switching-workshop/</link>
+      <pubDate>Wed, 27 Jun 2018 10:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/context-switching-workshop/</guid>
+      <description>What is Content Switching? Context Switching can be described as multi-tasking which is often seen as a good thing. Unfortunately, we are not able to generate the same amount of output/value when we multi-task.
+Much recent neuroscience research tells us that the brain doesn’t really do tasks simultaneously, as we thought (hoped) it might. In fact, we just switch tasks quickly. Each time we move from hearing music to writing a text or talking to someone, there is a stop/start process that goes on in the brain.</description>
+    </item>
     
     <item>
       <title>Schneider Model</title>
