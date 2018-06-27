@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infrastructure on OpenEssence</title>
+    <link>https://openessence.github.io/tags/infrastructure/</link>
+    <description>Recent content in Infrastructure on OpenEssence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Jun 2018 11:39:01 +0100</lastBuildDate>
+    
+	<atom:link href="https://openessence.github.io/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Infrastructure Architecture Workshop</title>
+      <link>https://openessence.github.io/practices/infrastructure-architecture-workshop/</link>
+      <pubDate>Wed, 27 Jun 2018 11:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/infrastructure-architecture-workshop/</guid>
+      <description>What is an Infrastructure Architecture Workshop? This is an activity which is designed to elicit requirements and propose architecture for an infrastructure-type engagement. The outputs from the workshop are:
+ A list of requirements A High Level Design document A Low Level Design document A task backlog  The outputs can then be fed to an implementation team who should be able to implement a solution that meets the requirements.</description>
+    </item>
+    
+  </channel>
+</rss>
