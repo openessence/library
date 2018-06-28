@@ -133,12 +133,6 @@
   </url>
   
   <url>
-    <loc>https://openessence.github.io/author/a-n-other/</loc>
-    <lastmod>2018-06-28T10:39:01+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://openessence.github.io/tags/agile/</loc>
     <lastmod>2018-06-27T11:18:08+01:00</lastmod>
     <priority>0</priority>
@@ -164,7 +158,6 @@
   
   <url>
     <loc>https://openessence.github.io/author/</loc>
-    <lastmod>2018-06-28T10:39:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -194,7 +187,7 @@
   
   <url>
     <loc>https://openessence.github.io/author/chrisj/</loc>
-    <lastmod>2018-06-27T10:39:01+01:00</lastmod>
+    <lastmod>2018-06-28T10:39:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
