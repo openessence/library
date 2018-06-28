@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Odf on OpenEssence</title>
+    <link>https://openessence.github.io/tags/odf/</link>
+    <description>Recent content in Odf on OpenEssence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jun 2018 13:20:21 +0100</lastBuildDate>
+    
+	<atom:link href="https://openessence.github.io/tags/odf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Decision Framework</title>
+      <link>https://openessence.github.io/practices/opendecisionframework/</link>
+      <pubDate>Thu, 28 Jun 2018 13:20:21 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/opendecisionframework/</guid>
+      <description>What is the Open Decision Framework ? For the past few years Red Hat, have been grappling with the challenges of growing an open organization and sustaining our culture along the way. One tool we’ve been developing and testing is the Open Decision Framework, a collection of best practices for applying open source principles to business projects and decisions.
+The Open Decision Framework contains the collective wisdom of an organisations staff, compiled into a flexible framework that helps decision makers and leaders seek out diverse perspectives and collaborate across teams and geos, to make better decisions.</description>
+    </item>
+    
+  </channel>
+</rss>

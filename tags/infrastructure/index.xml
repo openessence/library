@@ -21,5 +21,15 @@
  A list of requirements A High Level Design document A Low Level Design document A task backlog  The outputs can then be fed to an implementation team who should be able to implement a solution that meets the requirements.</description>
     </item>
     
+    <item>
+      <title>Workshop Preparation Call</title>
+      <link>https://openessence.github.io/practices/workshoppreperationcall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/workshoppreperationcall/</guid>
+      <description>What is a Workshop Preparation Call? This is an activity that is designed as a precursor to an Architectural Workshop, such as the Infrastructure Architecture Workshop. The outputs from the call are:
+ A list of identified stakeholders and their areas of interest An agenda of workshops, with each workshop identified by subject matter and attendees  Why use it? The workshop preparation call should be used to set the agenda and scope of one or more workshops.</description>
+    </item>
+    
   </channel>
 </rss>

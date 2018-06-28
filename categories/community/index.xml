@@ -6,10 +6,20 @@
     <description>Recent content in Community on OpenEssence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Jun 2018 11:39:01 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jun 2018 13:20:21 +0100</lastBuildDate>
     
 	<atom:link href="https://openessence.github.io/categories/community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Decision Framework</title>
+      <link>https://openessence.github.io/practices/opendecisionframework/</link>
+      <pubDate>Thu, 28 Jun 2018 13:20:21 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/opendecisionframework/</guid>
+      <description>What is the Open Decision Framework ? For the past few years Red Hat, have been grappling with the challenges of growing an open organization and sustaining our culture along the way. One tool we’ve been developing and testing is the Open Decision Framework, a collection of best practices for applying open source principles to business projects and decisions.
+The Open Decision Framework contains the collective wisdom of an organisations staff, compiled into a flexible framework that helps decision makers and leaders seek out diverse perspectives and collaborate across teams and geos, to make better decisions.</description>
+    </item>
     
     <item>
       <title>Infrastructure Architecture Workshop</title>
@@ -62,6 +72,16 @@ Related Practices It can be used as part of a Discovery Session or as part of a 
       <guid>https://openessence.github.io/practices/stakeholder-mapping/</guid>
       <description>What is Stakeholder Mapping? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
 Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  1 hour  Difficulty  Facilitator: Easy Participants: Easy  Facilitation Materials Needed  Whiteboard which will hold sticky notes.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Preparation Call</title>
+      <link>https://openessence.github.io/practices/workshoppreperationcall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://openessence.github.io/practices/workshoppreperationcall/</guid>
+      <description>What is a Workshop Preparation Call? This is an activity that is designed as a precursor to an Architectural Workshop, such as the Infrastructure Architecture Workshop. The outputs from the call are:
+ A list of identified stakeholders and their areas of interest An agenda of workshops, with each workshop identified by subject matter and attendees  Why use it? The workshop preparation call should be used to set the agenda and scope of one or more workshops.</description>
     </item>
     
   </channel>
