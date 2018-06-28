@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kerrie Laird on OpenEssence</title>
+    <link>https://openessence.github.io/author/kerrie-laird/</link>
+    <description>Recent content in Kerrie Laird on OpenEssence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Jun 2018 10:39:01 +0100</lastBuildDate>
+    
+	<atom:link href="https://openessence.github.io/author/kerrie-laird/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Business Strategy Workshop</title>
+      <link>https://openessence.github.io/practices/business-strategy-engagement/</link>
+      <pubDate>Wed, 27 Jun 2018 10:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/business-strategy-engagement/</guid>
+      <description>What is a Business Strategy Engagement? The Red Hat Strategy Engagement takes business leaders out of their day to day environment to explore their future business strategy and position Red Hat as technology partner of choice.
+The outputs from the workshops are:
+Day 1
+ Understanding of what a Journey Map is Agreed topics to take into the Journey Mapping Workshop Output document containing:  Customer Strategy Business Priority Output RTI Assessment document   Day 2</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Maturity Model</title>
+  <meta property="og:title" content="Maturity Model" />
+  <meta name="twitter:title" content="Maturity Model" />
+  <meta name="description" content="Author Malcolm Herbert, Red Hat 2016
+License Creative Commons Attribution-ShareAlike 4.0 https://creativecommons.org/licenses/by-sa/4.0/ What is a Maturity Model ? A Maturity Model can be used to describe a whole host of technology based environments. Rather than focusing on a specific software product they will look at - technology - process - people
+For example, a Maturity model can be used to assess current System Management / Data Centre Management and is a useful tool to determine the current position of an organisation, especially in relation to Standard Operating Environment (SOE) and the related areas of Unix to Linux migrations or Continuous Delivery.">
+  <meta property="og:description" content="Author Malcolm Herbert, Red Hat 2016
+License Creative Commons Attribution-ShareAlike 4.0 https://creativecommons.org/licenses/by-sa/4.0/ What is a Maturity Model ? A Maturity Model can be used to describe a whole host of technology based environments. Rather than focusing on a specific software product they will look at - technology - process - people
+For example, a Maturity model can be used to assess current System Management / Data Centre Management and is a useful tool to determine the current position of an organisation, especially in relation to Standard Operating Environment (SOE) and the related areas of Unix to Linux migrations or Continuous Delivery.">
+  <meta name="twitter:description" content="Author Malcolm Herbert, Red Hat 2016
+License Creative Commons Attribution-ShareAlike 4.0 https://creativecommons.org/licenses/by-sa/4.0/ What is a Maturity Model ? A Maturity Model can be used to …">
+  <meta name="author" content=""/>
+  <meta name="twitter:card" content="summary" />
+  <meta property="og:url" content="https://openessence.github.io/practices/maturity-model/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="OpenEssence" />
+
+  <meta name="generator" content="Hugo 0.41" />
+  <link rel="canonical" href="https://openessence.github.io/practices/maturity-model/" />
+  <link rel="alternate" href="https://openessence.github.io/index.xml" type="application/rss+xml" title="OpenEssence">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://openessence.github.io/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" /><link rel="stylesheet" href="https://openessence.github.io/css/syntax.css" /><link rel="stylesheet" href="https://openessence.github.io/css/codeblock.css" />
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+</head>
+
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://openessence.github.io/">OpenEssence</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li>
+              <a title="OpenEssence Home" href="/">OpenEssence Home</a>
+            </li>
+          
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+
+
+
+    
+  
+  
+  
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="practices-heading">
+              <h1>Maturity Model</h1>
+                
+                
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        
+
+<h2 id="author">Author</h2>
+
+<p>Malcolm Herbert, Red Hat 2016</p>
+
+<h2 id="license">License</h2>
+
+<p>Creative Commons Attribution-ShareAlike 4.0
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">https://creativecommons.org/licenses/by-sa/4.0/</a>
+<img src="https://licensebuttons.net/l/by-sa/3.0/88x31.png" alt="CC BY SA" /></p>
+
+<hr />
+
+<h2 id="what-is-a-maturity-model">What is a Maturity Model ?</h2>
+
+<p>A Maturity Model can be used to describe a whole host of technology based environments. Rather than focusing on a specific software product they will look at
+- technology
+- process
+- people</p>
+
+<p>For example, a Maturity model can be used to assess current System Management / Data Centre Management and is a useful tool to determine the current position of an organisation, especially in relation to Standard Operating Environment (SOE) and the related areas of Unix to Linux migrations or Continuous Delivery.</p>
+
+<p>Maturity Models can be also used for DevOps, Open Source, of which there are a number, including the ones linked to below that were developed as quick assessment tool by Red Hat Consulting.  It has also used a number of Maturity Models as part of the early engagement with customers as is a way of explaining how an organisation compares with other organisations (in an anonymous way) and with what is needed for future development. Any model usually takes into account people, process and technology and usually needs to be assessed in such a way that it is not overly demanding in terms of information collection or seen to be a negative exercise highlighting problems in an organisation.</p>
+
+<p>As part of assessing an orgnaisations readiness for cloud native application development, Red Hat also produced <a href="http://www.ready-to-innovate.com">Ready to Innovate</a> as an online assessment tool, which assessing an organisations maturity and capability in 5 keys areas.</p>
+
+<h2 id="why-use-it">Why use  it?</h2>
+
+<p>Maturity Models can be used as part of the initial discovery phase of a project and whilst they can be seen as negative, especially when organisations might not be mature, one of the skills of the assessor is to focus on the areas for development and where this might start.</p>
+
+<h2 id="related-practices">Related Practices</h2>
+
+<p><a href="http://openessence.io/practices/rti.html">Ready to Innovate</a></p>
+
+<h2 id="who-do-you-need">Who do you need?</h2>
+
+<ul>
+<li>the model, as an application or tool of some form. There are a number of examples listed below.</li>
+</ul>
+
+<h2 id="suggested-time">Suggested Time</h2>
+
+<ul>
+<li>Usually 1 to 4 hours, depending on the model</li>
+</ul>
+
+<h2 id="difficulty">Difficulty</h2>
+
+<ul>
+<li>Facilitator: Moderate</li>
+<li>Participants: Easy</li>
+</ul>
+
+<h2 id="facilitation-materials-needed">Facilitation Materials Needed</h2>
+
+<ul>
+<li>Whiteboard which will hold sticky notes.</li>
+<li>Whiteboard markers</li>
+<li>Models</li>
+</ul>
+
+<h2 id="process-phase">Process Phase</h2>
+
+<p>Any time</p>
+
+<h2 id="description">Description</h2>
+
+<p>Red Hat Consulting has used a number of Maturity Models as part of the early engagement with customers as is a way of explaining how an organisation compares with other organisations (in an anonymous way) and with what is needed for future development. Any model usually takes into account people, process and technology and usually needs to be assessed in such a way that it is not overly demanding in terms of information collection or seen to be a negative exercise highlighting problems in an organisation.</p>
+
+<h2 id="practices">Practices</h2>
+
+<p><a href="http://openessence.io/practices/discovery-session.md">Discovery Session</a></p>
+
+<h2 id="external-links">External Links</h2>
+
+<p><a href="https://en.wikipedia.org/wiki/OpenSource_Maturity_Model">The QualPSo Open Source Maturity Model</a>
+<a href="https://www.cigital.com/blog/open-source-and-software-maturity-models/">OpenSource Maturity Models discussion</a></p>
+
+<p><a href="http://www.infoq.com/articles/Continuous-Delivery-Maturity-Model">Continuous Integration Maturity Model</a>
+<a href="http://info.thoughtworks.com/rs/thoughtworks2/images/continuous_delivery_a_maturity_assessment_modelfinal.pdf">Thoughtworks Continuous Integration Maturity Model</a></p>
+
+<p><a href="https://docs.google.com/spreadsheets/d/1FpcoETbEXlrrzoRZFn9A8EjWGHLInJ3C6exn_uwjLKU/edit?usp=sharing">Basic DevOps Maturity Model</a>
+<a href="https://docs.google.com/spreadsheets/d/14jcoh9o1HoYKzFpqvrgVtBCEjQv1-OoysOuR66erqFU/edit?usp=sharing">Basic Open Source Maturity Model</a></p>
+
+<h1 id="activity-spaces-influenced">Activity Spaces Influenced</h1>
+
+<table>
+<thead>
+<tr>
+<th>Activity Area</th>
+<th>Activity Space</th>
+<th>Influenced</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Customer</td>
+<td>Explore Possibilities</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Customer</td>
+<td>Understand Stakeholders Needs</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>Customer</td>
+<td>Ensure Stakeholder Satisfaction</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Customer</td>
+<td>Use The System</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Solution</td>
+<td>Understand the Requirements</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Solution</td>
+<td>Shape the System</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>Solution</td>
+<td>Implement the System</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Solution</td>
+<td>Test the System</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Solution</td>
+<td>Deploy the System</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Solution</td>
+<td>Operate the System</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Endeavour</td>
+<td>Prepare to do the Work</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Endeavour</td>
+<td>Coordinate Activity</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Endeavour</td>
+<td>Support the Team</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Endeavour</td>
+<td>Track Progress</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Endeavour</td>
+<td>Stop the Work</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="input-alpha-states">Input Alpha States</h2>
+
+<table>
+<thead>
+<tr>
+<th>Alpha</th>
+<th>State</th>
+<th>TotalStates</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Opportunity</td>
+<td>1</td>
+<td>3</td>
+</tr>
+
+<tr>
+<td>Stakeholders</td>
+<td>1</td>
+<td>2</td>
+</tr>
+
+<tr>
+<td>Requirements</td>
+<td>0</td>
+<td>6</td>
+</tr>
+
+<tr>
+<td>Software System</td>
+<td>0</td>
+<td>6</td>
+</tr>
+
+<tr>
+<td>Work</td>
+<td>0</td>
+<td>6</td>
+</tr>
+
+<tr>
+<td>Way of Working</td>
+<td>0</td>
+<td>6</td>
+</tr>
+
+<tr>
+<td>Team</td>
+<td>1</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="output-alpha-states">Output Alpha States</h2>
+
+<table>
+<thead>
+<tr>
+<th>Alpha</th>
+<th>State</th>
+<th>TotalStates</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Opportunity</td>
+<td>1</td>
+<td>4</td>
+</tr>
+
+<tr>
+<td>Stakeholders</td>
+<td>1</td>
+<td>3</td>
+</tr>
+
+<tr>
+<td>Requirements</td>
+<td>0</td>
+<td>6</td>
+</tr>
+
+<tr>
+<td>Software System</td>
+<td>0</td>
+<td>6</td>
+</tr>
+
+<tr>
+<td>Work</td>
+<td>0</td>
+<td>6</td>
+</tr>
+
+<tr>
+<td>Way of Working</td>
+<td>0</td>
+<td>6</td>
+</tr>
+
+<tr>
+<td>Team</td>
+<td>1</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+
+
+        
+          <div class="blog-tags">
+            
+              <a href="https://openessence.github.io//tags/maturity-model/">maturity model</a>&nbsp;
+            
+              <a href="https://openessence.github.io//tags/community/">community</a>&nbsp;
+            
+              <a href="https://openessence.github.io//tags/rti/">RTI</a>&nbsp;
+            
+              <a href="https://openessence.github.io//tags/devops-maturity-model/">DevOps Maturity Model</a>&nbsp;
+            
+          </div>
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://openessence.github.io/practices/engagement-client-preparation-doc/" data-toggle="tooltip" data-placement="top" title="Engagement Client Preparation Doc">&larr; Previous Post</a>
+            </li>
+          
+          
+            <li class="next">
+              <a href="https://openessence.github.io/practices/prep-call/" data-toggle="tooltip" data-placement="top" title="Prep Call">Next Post &rarr;</a>
+            </li>
+          
+        </ul>
+      
+
+
+      
+
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+
+          &nbsp;&bull;&nbsp;
+          2018
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="https://openessence.github.io/">OpenEssence</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="http://gohugo.io">Hugo v0.41</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://openessence.github.io/js/main.js"></script><script> renderMathInElement(document.body); </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script>
+<script src="https://openessence.github.io/js/load-photoswipe.js"></script>
+
+
+
+
+
+
+  </body>
+</html>
+
