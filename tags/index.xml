@@ -6,10 +6,19 @@
     <description>Recent content in Tags on OpenEssence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jun 2018 15:31:41 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jun 2018 11:18:08 +0100</lastBuildDate>
     
 	<atom:link href="https://openessence.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Agile</title>
+      <link>https://openessence.github.io/tags/agile/</link>
+      <pubDate>Wed, 27 Jun 2018 11:18:08 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/agile/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aims</title>
@@ -48,6 +57,24 @@
     </item>
     
     <item>
+      <title>Client Prep Document</title>
+      <link>https://openessence.github.io/tags/client-prep-document/</link>
+      <pubDate>Wed, 27 Jun 2018 14:42:20 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/client-prep-document/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>https://openessence.github.io/tags/community/</link>
+      <pubDate>Wed, 27 Jun 2018 15:56:47 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Culture</title>
       <link>https://openessence.github.io/tags/culture/</link>
       <pubDate>Wed, 13 Jun 2018 11:25:31 +0100</pubDate>
@@ -57,11 +84,38 @@
     </item>
     
     <item>
+      <title>Delivery</title>
+      <link>https://openessence.github.io/tags/delivery/</link>
+      <pubDate>Wed, 27 Jun 2018 11:18:08 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Design</title>
       <link>https://openessence.github.io/tags/design/</link>
       <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
       
       <guid>https://openessence.github.io/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops Maturity Model</title>
+      <link>https://openessence.github.io/tags/devops-maturity-model/</link>
+      <pubDate>Wed, 27 Jun 2018 15:56:47 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/devops-maturity-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery Workshops</title>
+      <link>https://openessence.github.io/tags/discovery-workshops/</link>
+      <pubDate>Wed, 27 Jun 2018 14:42:20 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/discovery-workshops/</guid>
       <description></description>
     </item>
     
@@ -89,6 +143,15 @@
       <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
       
       <guid>https://openessence.github.io/tags/mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maturity Model</title>
+      <link>https://openessence.github.io/tags/maturity-model/</link>
+      <pubDate>Wed, 27 Jun 2018 15:56:47 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/maturity-model/</guid>
       <description></description>
     </item>
     
@@ -138,6 +201,15 @@
     </item>
     
     <item>
+      <title>Rti</title>
+      <link>https://openessence.github.io/tags/rti/</link>
+      <pubDate>Wed, 27 Jun 2018 15:56:47 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/rti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Semat</title>
       <link>https://openessence.github.io/tags/semat/</link>
       <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
@@ -152,6 +224,24 @@
       <pubDate>Sat, 12 May 2018 16:31:41 +0000</pubDate>
       
       <guid>https://openessence.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stakeholder</title>
+      <link>https://openessence.github.io/tags/stakeholder/</link>
+      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/stakeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stakeholder Mapping</title>
+      <link>https://openessence.github.io/tags/stakeholder-mapping/</link>
+      <pubDate>Wed, 27 Jun 2018 14:42:20 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/tags/stakeholder-mapping/</guid>
       <description></description>
     </item>
     
