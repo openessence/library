@@ -22,6 +22,27 @@ The Open Decision Framework contains the collective wisdom of an organisations s
     </item>
     
     <item>
+      <title>TEMPLATE</title>
+      <link>https://openessence.github.io/practices/template/</link>
+      <pubDate>Thu, 28 Jun 2018 10:39:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/template/</guid>
+      <description>What is TEMPLATE? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
+Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  1 hour  Difficulty  Facilitator: Easy Participants: Easy  Facilitation Materials Needed  Whiteboard which will hold sticky notes. Whiteboard markers Stickies (preferably a wide variety)  Process Phase Any time</description>
+    </item>
+    
+    <item>
+      <title>Maturity Model</title>
+      <link>https://openessence.github.io/practices/maturity-model/</link>
+      <pubDate>Wed, 27 Jun 2018 15:56:47 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/maturity-model/</guid>
+      <description>Author Malcolm Herbert, Red Hat 2016
+License Creative Commons Attribution-ShareAlike 4.0 https://creativecommons.org/licenses/by-sa/4.0/ What is a Maturity Model ? A Maturity Model can be used to describe a whole host of technology based environments. Rather than focusing on a specific software product they will look at - technology - process - people
+For example, a Maturity model can be used to assess current System Management / Data Centre Management and is a useful tool to determine the current position of an organisation, especially in relation to Standard Operating Environment (SOE) and the related areas of Unix to Linux migrations or Continuous Delivery.</description>
+    </item>
+    
+    <item>
       <title>Infrastructure Architecture Workshop</title>
       <link>https://openessence.github.io/practices/infrastructure-architecture-workshop/</link>
       <pubDate>Wed, 27 Jun 2018 11:39:01 +0100</pubDate>
