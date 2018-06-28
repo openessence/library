@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discovery Session on OpenEssence</title>
+    <link>https://openessence.github.io/tags/discovery-session/</link>
+    <description>Recent content in Discovery Session on OpenEssence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jun 2018 11:11:24 +0100</lastBuildDate>
+    
+	<atom:link href="https://openessence.github.io/tags/discovery-session/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prep Call</title>
+      <link>https://openessence.github.io/practices/prep-call/</link>
+      <pubDate>Thu, 28 Jun 2018 11:11:24 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/prep-call/</guid>
+      <description>License Creative Commons Attribution-ShareAlike 4.0 https://creativecommons.org/licenses/by-sa/4.0/ What is a Prep Call (or Preparation Call)? Prior to any onsite or face to face meeting, a preparation call looks to provide an initial introduction to the project and identify an opportunity and an initial view of the stakeholders. This should be with all parties that are to be involved with the event, internal and customer / external.
+ Run 30-60 minute conference call with customer, going through the Workshop Preparation Guide.</description>
+    </item>
+    
+  </channel>
+</rss>
