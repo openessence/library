@@ -4,7 +4,12 @@
   
   <url>
     <loc>https://openessence.github.io/</loc>
-    <lastmod>2018-06-28T13:20:21+01:00</lastmod>
+    <lastmod>2018-06-28T15:51:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/practices/discover-session-report/</loc>
+    <lastmod>2018-06-28T15:51:15+01:00</lastmod>
   </url>
   
   <url>
@@ -13,13 +18,13 @@
   </url>
   
   <url>
-    <loc>https://openessence.github.io/practices/prep-call/</loc>
-    <lastmod>2018-06-28T11:11:24+01:00</lastmod>
+    <loc>https://openessence.github.io/practices/business-priority-exercise/</loc>
+    <lastmod>2018-06-28T12:06:01+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://openessence.github.io/practices/template/</loc>
-    <lastmod>2018-06-28T10:39:01+01:00</lastmod>
+    <loc>https://openessence.github.io/practices/prep-call/</loc>
+    <lastmod>2018-06-28T11:11:24+01:00</lastmod>
   </url>
   
   <url>
@@ -175,7 +180,7 @@
   
   <url>
     <loc>https://openessence.github.io/tags/business/</loc>
-    <lastmod>2018-06-27T10:39:01+01:00</lastmod>
+    <lastmod>2018-06-28T12:06:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -187,7 +192,7 @@
   
   <url>
     <loc>https://openessence.github.io/author/chrisj/</loc>
-    <lastmod>2018-06-28T10:39:01+01:00</lastmod>
+    <lastmod>2018-06-27T10:39:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -205,7 +210,7 @@
   
   <url>
     <loc>https://openessence.github.io/categories/community/</loc>
-    <lastmod>2018-06-28T13:20:21+01:00</lastmod>
+    <lastmod>2018-06-28T15:51:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -235,7 +240,13 @@
   
   <url>
     <loc>https://openessence.github.io/tags/discovery-session/</loc>
-    <lastmod>2018-06-28T11:11:24+01:00</lastmod>
+    <lastmod>2018-06-28T15:51:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/tags/discovery-session-report/</loc>
+    <lastmod>2018-06-28T15:51:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -259,13 +270,13 @@
   
   <url>
     <loc>https://openessence.github.io/author/kerrie-laird/</loc>
-    <lastmod>2018-06-27T10:39:01+01:00</lastmod>
+    <lastmod>2018-06-28T12:06:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openessence.github.io/author/malcolm-herbert/</loc>
-    <lastmod>2018-06-28T13:20:21+01:00</lastmod>
+    <lastmod>2018-06-28T15:51:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -331,13 +342,19 @@
   
   <url>
     <loc>https://openessence.github.io/practices/</loc>
-    <lastmod>2018-06-28T13:20:21+01:00</lastmod>
+    <lastmod>2018-06-28T15:51:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openessence.github.io/tags/prep-call/</loc>
     <lastmod>2018-06-28T11:11:24+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/tags/report/</loc>
+    <lastmod>2018-06-28T15:51:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -391,19 +408,7 @@
   
   <url>
     <loc>https://openessence.github.io/tags/strategy/</loc>
-    <lastmod>2018-06-27T10:39:01+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/tags/tag1/</loc>
-    <lastmod>2018-06-28T10:39:01+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/tags/tag2/</loc>
-    <lastmod>2018-06-28T10:39:01+01:00</lastmod>
+    <lastmod>2018-06-28T12:06:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   

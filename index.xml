@@ -6,10 +6,20 @@
     <description>Recent content in OpenEssence Home on OpenEssence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jun 2018 13:20:21 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jun 2018 15:51:15 +0100</lastBuildDate>
     
 	<atom:link href="https://openessence.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Discover Session Report</title>
+      <link>https://openessence.github.io/practices/discover-session-report/</link>
+      <pubDate>Thu, 28 Jun 2018 15:51:15 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/discover-session-report/</guid>
+      <description>License Creative Commons Attribution-ShareAlike 4.0 https://creativecommons.org/licenses/by-sa/4.0/ What is a Discovery Session Report ? Short report template for Discovery Sessions. The problem with some sessions is that the documentation takes too long to produce and can be too extensive. Using the templates ensures a succinct, easy to read report with the key findings.
+A Discovery Session usually last for 1 day or less and the report should be written with this in mind; should be short, concise and relevant to the workshop.</description>
+    </item>
     
     <item>
       <title>Open Decision Framework</title>
@@ -22,6 +32,17 @@ The Open Decision Framework contains the collective wisdom of an organisations s
     </item>
     
     <item>
+      <title>Business Priority Exercise</title>
+      <link>https://openessence.github.io/practices/business-priority-exercise/</link>
+      <pubDate>Thu, 28 Jun 2018 12:06:01 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/business-priority-exercise/</guid>
+      <description>What is a Business Priority Exercise? The business priroity exercise is a method for structuring a conversation with a customer around their strategy and business priorities.
+Using 12 magnetic cards which contain generic priorities, the facilitator asks the group to select their top 3 from a business perspective.
+As the group are working out which 3 to select, the facilitator should be asking probing questions about their thought process.</description>
+    </item>
+    
+    <item>
       <title>Prep Call</title>
       <link>https://openessence.github.io/practices/prep-call/</link>
       <pubDate>Thu, 28 Jun 2018 11:11:24 +0100</pubDate>
@@ -29,16 +50,6 @@ The Open Decision Framework contains the collective wisdom of an organisations s
       <guid>https://openessence.github.io/practices/prep-call/</guid>
       <description>What is a Prep Call (or Preparation Call)? Prior to any onsite or face to face meeting, a preparation call looks to provide an initial introduction to the project and identify an opportunity and an initial view of the stakeholders. This should be with all parties that are to be involved with the event, internal and customer / external.
  Run 30-60 minute conference call with customer, going through the Workshop Preparation Guide.</description>
-    </item>
-    
-    <item>
-      <title>TEMPLATE</title>
-      <link>https://openessence.github.io/practices/template/</link>
-      <pubDate>Thu, 28 Jun 2018 10:39:01 +0100</pubDate>
-      
-      <guid>https://openessence.github.io/practices/template/</guid>
-      <description>What is TEMPLATE? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
-Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  1 hour  Difficulty  Facilitator: Easy Participants: Easy  Facilitation Materials Needed  Whiteboard which will hold sticky notes. Whiteboard markers Stickies (preferably a wide variety)  Process Phase Any time</description>
     </item>
     
     <item>
