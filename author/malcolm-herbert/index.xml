@@ -6,10 +6,29 @@
     <description>Recent content in Malcolm Herbert on OpenEssence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jun 2018 13:20:21 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jun 2018 15:51:15 +0100</lastBuildDate>
     
 	<atom:link href="https://openessence.github.io/author/malcolm-herbert/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Discovery Session</title>
+      <link>https://openessence.github.io/practices/discovery-session/</link>
+      <pubDate>Thu, 28 Jun 2018 15:51:15 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/discovery-session/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery Session Report</title>
+      <link>https://openessence.github.io/practices/discover-session-report/</link>
+      <pubDate>Thu, 28 Jun 2018 15:51:15 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/discover-session-report/</guid>
+      <description>What is a Discovery Session Report ? Short report template for Discovery Sessions. The problem with some discovery sessions is that the documentation takes too long to produce and can be too extensive. Using templates ensures a succinct, easy to read report with the key findings.
+A Discovery Session usually last for 1 day or less and the report should be written with this in mind; it should be short, concise and relevant to the workshop.</description>
+    </item>
     
     <item>
       <title>Open Decision Framework</title>
@@ -37,9 +56,8 @@ The Open Decision Framework contains the collective wisdom of an organisations s
       <pubDate>Wed, 27 Jun 2018 15:56:47 +0100</pubDate>
       
       <guid>https://openessence.github.io/practices/maturity-model/</guid>
-      <description>Author Malcolm Herbert, Red Hat 2016
-License Creative Commons Attribution-ShareAlike 4.0 https://creativecommons.org/licenses/by-sa/4.0/ What is a Maturity Model ? A Maturity Model can be used to describe a whole host of technology based environments. Rather than focusing on a specific software product they will look at - technology - process - people
-For example, a Maturity model can be used to assess current System Management / Data Centre Management and is a useful tool to determine the current position of an organisation, especially in relation to Standard Operating Environment (SOE) and the related areas of Unix to Linux migrations or Continuous Delivery.</description>
+      <description>What is a Maturity Model ? A Maturity Model can be used to describe a whole host of technology based environments. Rather than focusing on a specific software product they will look at
+ Technology Process People  For example, a Maturity model can be used to assess current System Management / Data Centre Management and is a useful tool to determine the current position of an organisation, especially in relation to Standard Operating Environment (SOE) and the related areas of Unix to Linux migrations or Continuous Delivery.</description>
     </item>
     
     <item>
@@ -49,7 +67,7 @@ For example, a Maturity model can be used to assess current System Management / 
       
       <guid>https://openessence.github.io/practices/engagement-client-preparation-doc/</guid>
       <description>What is a Client Preparation Document It&amp;rsquo;s a document that maps out the prerequisites for a Discovery Session or other presales workshop. It ensures that all the key elements needed are actually in place prior to the meeting taking place.
-The Document should be sourced around a particular theme, then edited to reflect customer details and passed on to the customer. It should outline a framework agenda for discussion and finalisation in the Pre-Call as well as potential outcomes from the one day Discovery Session.</description>
+The Document should be sourced around a particular theme, then edited to reflect customer details and passed on to the customer. It should outline a framework agenda for discussion and finalisation in the Prep-Call as well as potential outcomes from the one day Discovery Session.</description>
     </item>
     
     <item>
@@ -58,10 +76,9 @@ The Document should be sourced around a particular theme, then edited to reflect
       <pubDate>Wed, 27 Jun 2018 11:18:08 +0100</pubDate>
       
       <guid>https://openessence.github.io/practices/agile-delivery/</guid>
-      <description>Author Malcolm Herbert June 2018
-License Creative Commons Attribution-ShareAlike 4.0 https://creativecommons.org/licenses/by-sa/4.0/ What is Agile Delivery ? Agile delivery is an approach for delivering consulting or presales projects, based on the Agile methodology. It involves a range of Agile activities and approaches and the style of delivery varies significantly.
-http://agilemanifesto.org/
-Why use it? Because it&amp;rsquo;s Agile ? If you are a practioner and live Agile then this is the approach for you.</description>
+      <description>What is Agile Delivery ? Agile delivery is an approach for delivering consulting or pre-sales projects, based on the Agile methodology. It involves a range of Agile activities and approaches and the style of delivery varies significantly.
+See the Agile Manifesto for more information on Agile techniques.
+Why use it? Because it&amp;rsquo;s Agile ? If you are a practitioner and live Agile then this is the approach for you.</description>
     </item>
     
   </channel>

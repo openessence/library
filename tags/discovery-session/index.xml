@@ -6,10 +6,29 @@
     <description>Recent content in Discovery Session on OpenEssence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jun 2018 11:11:24 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jun 2018 15:51:15 +0100</lastBuildDate>
     
 	<atom:link href="https://openessence.github.io/tags/discovery-session/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Discovery Session</title>
+      <link>https://openessence.github.io/practices/discovery-session/</link>
+      <pubDate>Thu, 28 Jun 2018 15:51:15 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/discovery-session/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery Session Report</title>
+      <link>https://openessence.github.io/practices/discover-session-report/</link>
+      <pubDate>Thu, 28 Jun 2018 15:51:15 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/discover-session-report/</guid>
+      <description>What is a Discovery Session Report ? Short report template for Discovery Sessions. The problem with some discovery sessions is that the documentation takes too long to produce and can be too extensive. Using templates ensures a succinct, easy to read report with the key findings.
+A Discovery Session usually last for 1 day or less and the report should be written with this in mind; it should be short, concise and relevant to the workshop.</description>
+    </item>
     
     <item>
       <title>Prep Call</title>
