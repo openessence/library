@@ -4,7 +4,12 @@
   
   <url>
     <loc>https://openessence.github.io/</loc>
-    <lastmod>2018-06-28T15:51:15+01:00</lastmod>
+    <lastmod>2018-07-31T08:28:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openessence.github.io/practices/open-sourcing-projects/</loc>
+    <lastmod>2018-07-31T08:28:55+01:00</lastmod>
   </url>
   
   <url>
@@ -181,6 +186,12 @@
   </url>
   
   <url>
+    <loc>https://openessence.github.io/tags/checklist/</loc>
+    <lastmod>2018-07-31T08:28:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://openessence.github.io/author/chrisj/</loc>
     <lastmod>2018-06-27T10:39:01+01:00</lastmod>
     <priority>0</priority>
@@ -194,7 +205,7 @@
   
   <url>
     <loc>https://openessence.github.io/categories/community/</loc>
-    <lastmod>2018-06-28T15:51:15+01:00</lastmod>
+    <lastmod>2018-07-31T08:28:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -271,6 +282,12 @@
   </url>
   
   <url>
+    <loc>https://openessence.github.io/author/malcolm-herbert-dave-neary/</loc>
+    <lastmod>2018-07-31T08:28:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://openessence.github.io/tags/mapping/</loc>
     <lastmod>2018-06-07T12:39:01+01:00</lastmod>
     <priority>0</priority>
@@ -319,6 +336,12 @@
   </url>
   
   <url>
+    <loc>https://openessence.github.io/tags/open-source/</loc>
+    <lastmod>2018-07-31T08:28:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://openessence.github.io/tags/opportunity/</loc>
     <lastmod>2018-05-12T16:31:41+00:00</lastmod>
     <priority>0</priority>
@@ -332,7 +355,7 @@
   
   <url>
     <loc>https://openessence.github.io/practices/</loc>
-    <lastmod>2018-06-28T15:51:15+01:00</lastmod>
+    <lastmod>2018-07-31T08:28:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   

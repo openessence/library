@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malcolm Herbert Dave Neary on OpenEssence</title>
+    <link>https://openessence.github.io/author/malcolm-herbert-dave-neary/</link>
+    <description>Recent content in Malcolm Herbert Dave Neary on OpenEssence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Jul 2018 08:28:55 +0100</lastBuildDate>
+    
+	<atom:link href="https://openessence.github.io/author/malcolm-herbert-dave-neary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Sourcing Projects</title>
+      <link>https://openessence.github.io/practices/open-sourcing-projects/</link>
+      <pubDate>Tue, 31 Jul 2018 08:28:55 +0100</pubDate>
+      
+      <guid>https://openessence.github.io/practices/open-sourcing-projects/</guid>
+      <description>What is the Open Sourcing Checklist? It&amp;rsquo;s a an outline (not definitive) list of things to consider if you are looking to open source an existing software projects. You might want to use the list to put together some metrics to measure progress of the project.
+Why use it? Because it&amp;rsquo;s a good place to start
+Suggested Time Ongoing.
+The Checklist Phase One: Discovery Meet with initial key stakeholders from BU and engineering to determine what success looks like for the community post-launch, vet with other stakeholders including executive team Ensure plan for project success supports success of subscription/product offering Ensure that the project is viable as an open source project from community perspective if a community project.</description>
+    </item>
+    
+  </channel>
+</rss>
