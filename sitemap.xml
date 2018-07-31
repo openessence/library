@@ -58,11 +58,6 @@
   </url>
   
   <url>
-    <loc>https://openessence.github.io/practices/activity-template/</loc>
-    <lastmod>2018-06-27T10:23:32+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://openessence.github.io/contributors/</loc>
     <lastmod>2018-06-21T12:12:16+01:00</lastmod>
   </url>
@@ -89,11 +84,6 @@
   
   <url>
     <loc>https://openessence.github.io/practices/pathfinder/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/practices/stakeholder-mapping/</loc>
     <lastmod>2018-06-07T12:39:01+01:00</lastmod>
   </url>
   
@@ -385,12 +375,6 @@
   <url>
     <loc>https://openessence.github.io/tags/software/</loc>
     <lastmod>2018-05-12T16:31:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openessence.github.io/tags/stakeholder/</loc>
-    <lastmod>2018-06-07T12:39:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   

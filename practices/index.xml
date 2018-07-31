@@ -12,13 +12,13 @@
     
     
     <item>
-      <title>Discover Session Report</title>
+      <title>Discovery Session Report</title>
       <link>https://openessence.github.io/practices/discover-session-report/</link>
       <pubDate>Thu, 28 Jun 2018 15:51:15 +0100</pubDate>
       
       <guid>https://openessence.github.io/practices/discover-session-report/</guid>
-      <description>License Creative Commons Attribution-ShareAlike 4.0 https://creativecommons.org/licenses/by-sa/4.0/ What is a Discovery Session Report ? Short report template for Discovery Sessions. The problem with some sessions is that the documentation takes too long to produce and can be too extensive. Using the templates ensures a succinct, easy to read report with the key findings.
-A Discovery Session usually last for 1 day or less and the report should be written with this in mind; should be short, concise and relevant to the workshop.</description>
+      <description>What is a Discovery Session Report ? Short report template for Discovery Sessions. The problem with some discovery sessions is that the documentation takes too long to produce and can be too extensive. Using templates ensures a succinct, easy to read report with the key findings.
+A Discovery Session usually last for 1 day or less and the report should be written with this in mind; it should be short, concise and relevant to the workshop.</description>
     </item>
     
     <item>
@@ -58,9 +58,8 @@ As the group are working out which 3 to select, the facilitator should be asking
       <pubDate>Wed, 27 Jun 2018 15:56:47 +0100</pubDate>
       
       <guid>https://openessence.github.io/practices/maturity-model/</guid>
-      <description>Author Malcolm Herbert, Red Hat 2016
-License Creative Commons Attribution-ShareAlike 4.0 https://creativecommons.org/licenses/by-sa/4.0/ What is a Maturity Model ? A Maturity Model can be used to describe a whole host of technology based environments. Rather than focusing on a specific software product they will look at - technology - process - people
-For example, a Maturity model can be used to assess current System Management / Data Centre Management and is a useful tool to determine the current position of an organisation, especially in relation to Standard Operating Environment (SOE) and the related areas of Unix to Linux migrations or Continuous Delivery.</description>
+      <description>What is a Maturity Model ? A Maturity Model can be used to describe a whole host of technology based environments. Rather than focusing on a specific software product they will look at
+ Technology Process People  For example, a Maturity model can be used to assess current System Management / Data Centre Management and is a useful tool to determine the current position of an organisation, especially in relation to Standard Operating Environment (SOE) and the related areas of Unix to Linux migrations or Continuous Delivery.</description>
     </item>
     
     <item>
@@ -70,7 +69,7 @@ For example, a Maturity model can be used to assess current System Management / 
       
       <guid>https://openessence.github.io/practices/engagement-client-preparation-doc/</guid>
       <description>What is a Client Preparation Document It&amp;rsquo;s a document that maps out the prerequisites for a Discovery Session or other presales workshop. It ensures that all the key elements needed are actually in place prior to the meeting taking place.
-The Document should be sourced around a particular theme, then edited to reflect customer details and passed on to the customer. It should outline a framework agenda for discussion and finalisation in the Pre-Call as well as potential outcomes from the one day Discovery Session.</description>
+The Document should be sourced around a particular theme, then edited to reflect customer details and passed on to the customer. It should outline a framework agenda for discussion and finalisation in the Prep-Call as well as potential outcomes from the one day Discovery Session.</description>
     </item>
     
     <item>
@@ -79,7 +78,7 @@ The Document should be sourced around a particular theme, then edited to reflect
       <pubDate>Wed, 27 Jun 2018 11:39:01 +0100</pubDate>
       
       <guid>https://openessence.github.io/practices/infrastructure-architecture-workshop/</guid>
-      <description>What is an Infrastructure Architecture Workshop? This is an activity which is designed to elicit requirements and propose architecture for an infrastructure-type engagement. The outputs from the workshop are:
+      <description>What is an Infrastructure Architecture Workshop? This is an activity which is designed to elicit requirements and propose an architecture for an infrastructure-type engagement. The outputs from the workshop are:
  A list of requirements A High Level Design document A Low Level Design document A task backlog  The outputs can then be fed to an implementation team who should be able to implement a solution that meets the requirements.</description>
     </item>
     
@@ -89,10 +88,9 @@ The Document should be sourced around a particular theme, then edited to reflect
       <pubDate>Wed, 27 Jun 2018 11:18:08 +0100</pubDate>
       
       <guid>https://openessence.github.io/practices/agile-delivery/</guid>
-      <description>Author Malcolm Herbert June 2018
-License Creative Commons Attribution-ShareAlike 4.0 https://creativecommons.org/licenses/by-sa/4.0/ What is Agile Delivery ? Agile delivery is an approach for delivering consulting or presales projects, based on the Agile methodology. It involves a range of Agile activities and approaches and the style of delivery varies significantly.
-http://agilemanifesto.org/
-Why use it? Because it&amp;rsquo;s Agile ? If you are a practioner and live Agile then this is the approach for you.</description>
+      <description>What is Agile Delivery ? Agile delivery is an approach for delivering consulting or pre-sales projects, based on the Agile methodology. It involves a range of Agile activities and approaches and the style of delivery varies significantly.
+See the Agile Manifesto for more information on Agile techniques.
+Why use it? Because it&amp;rsquo;s Agile ? If you are a practitioner and live Agile then this is the approach for you.</description>
     </item>
     
     <item>
@@ -115,19 +113,6 @@ Day 1
       <guid>https://openessence.github.io/practices/context-switching-workshop/</guid>
       <description>What is Context Switching? Context Switching can be described as multi-tasking which is often seen as a good thing. Unfortunately, we are not able to generate the same amount of output/value when we multi-task.
 Much recent neuroscience research tells us that the brain doesn’t really do tasks simultaneously, as we thought (hoped) it might. In fact, we just switch tasks quickly. Each time we move from hearing music to writing a text or talking to someone, there is a stop/start process that goes on in the brain.</description>
-    </item>
-    
-    <item>
-      <title>Activity Template</title>
-      <link>https://openessence.github.io/practices/activity-template/</link>
-      <pubDate>Wed, 27 Jun 2018 10:23:32 +0100</pubDate>
-      
-      <guid>https://openessence.github.io/practices/activity-template/</guid>
-      <description>ACTIVITY Name $title$
-Type Activity
-Author $author$ $date$
-License Creative Commons Attribution-ShareAlike 4.0 https://creativecommons.org/licenses/by-sa/4.0/ Activity Spaces Influenced Activities can only influence one activity space
-   Activity Area Activity Space Influenced     Customer Explore Possibilities    Customer Understand Stakeholders Needs    Customer Ensure Stakeholder Satisfaction    Customer Use The System    Solution Understand the Requirements    Solution Shape the System    Solution Implement the System    Solution Test the System    Solution Deploy the System    Solution Operate the System    Endeavour Prepare to do the Work    Endeavour Coordinate Activity    Endeavour Support the Team    Endeavour Track Progress    Endeavour Stop the Work     Input Alpha States    Alpha State TotalStates     Opportunity 1 6   Stakeholders 1 6   Requirements 1 6   Software System 0 6   Work 0 6   Way of Working 0 6   Team 1 5    Output Alpha States    Alpha State TotalStates     Opportunity 1 6   Stakeholders 1 6   Requirements 1 6   Software System 0 6   Work 0 6   Way of Working 0 6   Team 1 5    Summary $summary$</description>
     </item>
     
     <item>
@@ -160,16 +145,6 @@ Related Practices It can be used as part of a Discovery Session or as part of a 
       <description>What is Pathfinder? Pathfinder is a web based application assessment tool which is used by customers to determine which applications could be containerised, the effort involved and any impediments to the containerisation process.
 Pathfinder enables customers to view the order in which applications should be migrated as well as help determine the type of work involved e.g migrate, modernise etc, and a course estimate of the effort required.
 Why use it?</description>
-    </item>
-    
-    <item>
-      <title>Stakeholder Mapping</title>
-      <link>https://openessence.github.io/practices/stakeholder-mapping/</link>
-      <pubDate>Thu, 07 Jun 2018 12:39:01 +0100</pubDate>
-      
-      <guid>https://openessence.github.io/practices/stakeholder-mapping/</guid>
-      <description>What is Stakeholder Mapping? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius, velit dignissim porta sodales, odio erat dapibus tellus, nec gravida magna dolor sit amet orci . Vivamus sed laoreet nisl.
-Why use it? Related Practices Who do you need?  Insert Details  Suggested Time  1 hour  Difficulty  Facilitator: Easy Participants: Easy  Facilitation Materials Needed  Whiteboard which will hold sticky notes.</description>
     </item>
     
     <item>
